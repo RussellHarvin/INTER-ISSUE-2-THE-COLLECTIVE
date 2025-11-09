@@ -119,6 +119,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
+  
   window.addEventListener("resize", () => {
     ScrollTrigger.refresh(true);
   });

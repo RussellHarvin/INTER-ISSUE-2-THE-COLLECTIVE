@@ -1,57 +1,57 @@
 export const sliderData = [
     {
-    title: "EIGHT",
-    img: "ARCHIMG/slider_img_11.jpg",
-    url: "/Work.html",
-  },
-  {
     title: "FIRST",
-    img: "ARCHIMG/slider_img_01.jpg",
+    img: "ARCHIMG/slider_img_11 Medium.jpeg",
     url: "/Work.html",
   },
   {
     title: "SECOND",
-    img: "ARCHIMG/slider_img_02.jpg",
+    img: "ARCHIMG/slider_img_01 Medium.jpeg",
     url: "/Work.html",
   },
   {
     title: "THIRD",
-    img: "ARCHIMG/slider_img_03.jpg",
+    img: "ARCHIMG/slider_img_02 Medium.jpeg",
     url: "/Work.html",
   },
   {
-    title: "FOURTH",
-    img: "ARCHIMG/slider_img_04.jpg",
+    title: "FORUTH",
+    img: "ARCHIMG/slider_img_03 Medium.jpeg",
     url: "/Work.html",
   },
   {
     title: "FIFTH",
-    img: "ARCHIMG/slider_img_05.jpg",
+    img: "ARCHIMG/slider_img_04 Medium.jpeg",
     url: "/Work.html",
   },
   {
-    title: "SIX",
-    img: "ARCHIMG/slider_img_06.jpg",
+    title: "SIXTH",
+    img: "ARCHIMG/slider_img_05 Medium.jpeg",
     url: "/Work.html",
   },
   {
     title: "SEVEN",
-    img: "ARCHIMG/slider_img_07.jpg",
+    img: "ARCHIMG/slider_img_06 Medium.jpeg",
     url: "/Work.html",
   },
   {
     title: "EIGHT",
-    img: "ARCHIMG/slider_img_08.jpg",
+    img: "ARCHIMG/slider_img_07 Medium.jpeg",
+    url: "/Work.html",
+  },
+  {
+    title: "NINE",
+    img: "ARCHIMG/slider_img_08 Medium.jpeg",
     url: "/Work.html",
   },
     {
-    title: "EIGHT",
-    img: "ARCHIMG/slider_img_09.jpg",
+    title: "TEN",
+    img: "ARCHIMG/slider_img_09 Medium.jpeg",
     url: "/Work.html",
   },
     {
-    title: "EIGHT",
-    img: "ARCHIMG/slider_img_10.jpg",
+    title: "ELEVEN",
+    img: "ARCHIMG/slider_img_10 Medium.jpeg",
     url: "/Work.html",
   },
 ];
