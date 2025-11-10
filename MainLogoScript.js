@@ -1,7 +1,7 @@
 import { vertexShader, fragmentShader } from "./Sharders.js";
 
 const config = {
-  logoPath: "clemsonsti2copy.png",
+  logoPath: "clemson_logo.png",
   logoSize: 1250,
   logoColor: "#404040",
   canvasBg: "#141414",
